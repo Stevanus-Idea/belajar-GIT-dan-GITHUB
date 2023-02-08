@@ -1,4 +1,4 @@
-# belajar-GIT-dan-GITHUB
+# belajar-GIT-dasar
 
 Daftar biodata Siswa Dicoding Academy
 --
